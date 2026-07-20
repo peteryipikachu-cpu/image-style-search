@@ -247,7 +247,7 @@ def index():
     return send_from_directory(static_dir, 'index.html')
 
 try:
-    init_matcher(use_db=True)
+    init_matcher(use_db=os.getenv('USE_DB', 'True').lower() == 'true')
 except Exception as e:
     print(f"Failed to initialize matcher at startup: {e}")
     import traceback

@@ -18,6 +18,9 @@ class ImageCaptioner:
         if doubao_api_key:
             print("Using Doubao API for image captioning")
             self.captioner_type = "doubao"
+        elif os.getenv('SKIP_LOCAL_CAPTION_MODEL', 'False').lower() == 'true':
+            print("Skipping local BLIP model; using fallback captioning")
+            self.captioner_type = "fallback"
         else:
             # 尝试使用BLIP
             try:
@@ -543,5 +546,4 @@ class ImageCaptioner:
         prompt = "，".join(prompt_parts)
         
         return prompt
-
 
