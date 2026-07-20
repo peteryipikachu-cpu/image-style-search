@@ -4,6 +4,12 @@
 
 > 这是一个本地优先的 Flask 应用：数据、向量化任务和云服务凭据均由部署者管理。
 
+## 产品演示
+
+![图像风格匹配分析系统 - case 列表](docs/images/product-cases.png)
+
+![图像风格匹配分析系统 - 相似度分析详情](docs/images/product-analysis.png)
+
 ## 能做什么
 
 - 用 **CLIP** 提取图片与文本特征，计算风格相似度
