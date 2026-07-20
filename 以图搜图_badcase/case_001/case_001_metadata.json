@@ -1,0 +1,16 @@
+{
+  "ID": "3bd045e0-48ca-586d-b365-777e9d6c70e8",
+  "Annotator": "2bb26b72419bc428c9bf5358e4943dbb",
+  "Reviewer": "8f81ef8727630aab8bb0199d27c9aeee",
+  "Status": "Done",
+  "Base Image Type": "Group of People",
+  "instruction": "Make the people and the room look like they're crafted from clay, smoothing out all the realistic skin textures into a matte finish with visible ridges in their hair. Mute the colors slightly to give it that soft, toy-like appearance while keeping the lighting bright and even.",
+  "Base Image ID": "./StyleTransfer_global_3bd045e0-48ca-586d-b365-777e9d6c70e8_source_v01.jpeg",
+  "Base Image Size": "2048x3072",
+  "Style": "Claymation",
+  "style_strength": "high",
+  "Reference Image Sourcing": "Online",
+  "Reference Image ID": "./StyleTransfer_global_3bd045e0-48ca-586d-b365-777e9d6c70e8_ref_v01.jpeg",
+  "Reference Style Tags": "Claymation",
+  "Final Image Link": "./StyleTransfer_global_3bd045e0-48ca-586d-b365-777e9d6c70e8_final_high_v01.png"
+}

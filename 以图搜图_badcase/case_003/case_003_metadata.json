@@ -1,0 +1,16 @@
+{
+  "ID": "0eba6848-1fd1-533e-b78f-8c52028452cc",
+  "Annotator": "332511fab5e2e2b6ef6144b3296ff27f",
+  "Reviewer": "0b714ff3d56b87371bf3165aed8fd7cf",
+  "Status": "Done",
+  "Base Image Type": "Group of People",
+  "instruction": "Reimagine the room as a lavish Art Deco lounge by replacing the gray walls with bold, geometric gold and black patterns. Give the furniture and clothes a glossy, metallic finish, and swap the flat lighting for dramatic contrasts that highlight the intricate details of the scene.",
+  "Base Image ID": "./StyleTransfer_global_0eba6848-1fd1-533e-b78f-8c52028452cc_source_v01.jpeg",
+  "Base Image Size": "3072x2048",
+  "Style": "Art deco",
+  "style_strength": "high",
+  "Reference Image Sourcing": "Online",
+  "Reference Image ID": "./StyleTransfer_global_0eba6848-1fd1-533e-b78f-8c52028452cc_ref_v01.jpg",
+  "Reference Style Tags": "Art deco",
+  "Final Image Link": "./StyleTransfer_global_0eba6848-1fd1-533e-b78f-8c52028452cc_final_high_v01.png"
+}

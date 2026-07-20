@@ -1,0 +1,16 @@
+{
+  "ID": "daf7b1db-ddaa-54f4-ae11-ed0843157902",
+  "Annotator": "579c470a0d33175961d8bb391c653650",
+  "Reviewer": "8f81ef8727630aab8bb0199d27c9aeee",
+  "Status": "Done",
+  "Base Image Type": "Group of People",
+  "instruction": "Bath the scene in a hazy, pink-and-purple neon glow that washes out the natural daylight, then fracture the lower half of the cart and street into jagged, pixelated shards as if the reality is glitching out.",
+  "Base Image ID": "./StyleTransfer_global_daf7b1db-ddaa-54f4-ae11-ed0843157902_source_v01.jpeg",
+  "Base Image Size": "3640x2048",
+  "Style": "Glitch & Vaporwave",
+  "style_strength": "high",
+  "Reference Image Sourcing": "Online",
+  "Reference Image ID": "./StyleTransfer_global_daf7b1db-ddaa-54f4-ae11-ed0843157902_ref_v01.jpg",
+  "Reference Style Tags": "Glitch & Vaporwave",
+  "Final Image Link": "./StyleTransfer_global_daf7b1db-ddaa-54f4-ae11-ed0843157902_final_high_v01.png"
+}

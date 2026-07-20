@@ -1,0 +1,16 @@
+{
+  "ID": "27a164b3-7bd0-5eb5-8e40-7dfa18eecdde",
+  "Annotator": "d9c6ce9e14fb76d4292c82f70d1b44ca",
+  "Reviewer": "bda60addbc48d3cc363e041adf608cfd",
+  "Status": "Done",
+  "Base Image Type": "Single Person",
+  "instruction": "Make the woman look like a clay figurine by sculpting her hair and sweater into thick, chunky strands of dough, and give her skin that same smooth, matte finish found on handmade pottery.",
+  "Base Image ID": "./StyleTransfer_global_27a164b3-7bd0-5eb5-8e40-7dfa18eecdde_source_v01.jpeg",
+  "Base Image Size": "2048x3072",
+  "Style": "Claymation",
+  "style_strength": "high",
+  "Reference Image Sourcing": "Online",
+  "Reference Image ID": "./StyleTransfer_global_27a164b3-7bd0-5eb5-8e40-7dfa18eecdde_ref_v01.jpeg",
+  "Reference Style Tags": "Claymation",
+  "Final Image Link": "./StyleTransfer_global_27a164b3-7bd0-5eb5-8e40-7dfa18eecdde_final_high_v01.png"
+}
